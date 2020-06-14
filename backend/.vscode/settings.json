@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "sqlnode",
+            "dialect": "PostgreSQL",
+            "name": "sqlnode",
+            "password": "145897",
+            "port": 5432,
+            "server": "localhost",
+            "username": "lucas"
+        },
+        {
+            "database": "flash_cards_db",
+            "dialect": "PostgreSQL",
+            "name": "flash_cards_db",
+            "password": "145897",
+            "port": 5432,
+            "server": "localhost",
+            "username": "lucas"
+        }
+    ]
+}
